@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+wifinets/__init__.py
+wifinets.egg-info/PKG-INFO
+wifinets.egg-info/SOURCES.txt
+wifinets.egg-info/dependency_links.txt
+wifinets.egg-info/entry_points.txt
+wifinets.egg-info/not-zip-safe
+wifinets.egg-info/top_level.txt

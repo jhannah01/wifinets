@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: wifinets
+Version: 0.2dev
+Summary: A tool to convert Android wiglewifi databases to a more usable format
+Home-page: https://github.com/jhannah01/wifinets
+Author: Jon Hannah
+Author-email: jon@blueodin.com
+License: GPL
+Description: UNKNOWN
+Keywords: wiglewifi wifistumbler
+Platform: UNKNOWN
